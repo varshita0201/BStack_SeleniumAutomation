@@ -1,0 +1,1656 @@
+13:54:44.080 [main] INFO  BStackDemo - ChromeDriver Launched
+13:54:45.066 [main] INFO  BStackDemo - Opened application url
+13:54:47.837 [main] INFO  BStackDemo - URl Maximized
+13:54:48.909 [main] INFO  BStackDemo - Click on SignIn 
+13:54:49.016 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:49.018 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:49.358 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:49.359 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:49.379 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:49.380 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:49.406 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:49.407 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:49.424 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:49.426 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:49.442 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:49.443 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:49.462 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:49.463 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:49.479 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:49.480 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:49.494 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:49.496 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:49.511 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:49.511 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:49.525 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:49.526 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:49.540 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:49.541 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:49.553 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:49.554 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:49.566 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:49.567 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:49.582 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:49.583 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:49.607 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:49.608 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:49.621 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:49.622 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:49.636 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:49.637 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:49.655 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:49.656 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:49.670 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:49.671 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:55:00.402 [main] INFO  BStackDemo - Ss destination successful
+13:55:00.402 [main] INFO  BStackDemo - Ss failed to copy.\ScreenshotLoginTestWed_Dec_27_13:55:00_IST_2023.png (The filename, directory name, or volume label syntax is incorrect)
+13:55:00.418 [main] ERROR BStackDemo - Your account has been locked.
+13:55:10.952 [main] INFO  BStackDemo - Ss destination successful
+13:55:10.952 [main] INFO  BStackDemo - Ss failed to copy.\ScreenshotLoginTestWed_Dec_27_13:55:10_IST_2023.png (The filename, directory name, or volume label syntax is incorrect)
+13:55:10.967 [main] ERROR BStackDemo - Your account has been locked.
+13:55:21.534 [main] INFO  BStackDemo - Ss destination successful
+13:55:21.534 [main] INFO  BStackDemo - Ss failed to copy.\ScreenshotLoginTestWed_Dec_27_13:55:21_IST_2023.png (The filename, directory name, or volume label syntax is incorrect)
+13:55:21.550 [main] ERROR BStackDemo - Invalid Username
+13:55:32.067 [main] INFO  BStackDemo - Ss destination successful
+13:55:32.067 [main] INFO  BStackDemo - Ss failed to copy.\ScreenshotLoginTestWed_Dec_27_13:55:32_IST_2023.png (The filename, directory name, or volume label syntax is incorrect)
+13:55:32.083 [main] ERROR BStackDemo - Invalid Username
+13:55:42.566 [main] INFO  BStackDemo - Ss destination successful
+13:55:42.566 [main] INFO  BStackDemo - Ss failed to copy.\ScreenshotLoginTestWed_Dec_27_13:55:42_IST_2023.png (The filename, directory name, or volume label syntax is incorrect)
+13:55:42.582 [main] ERROR BStackDemo - Invalid Password
+13:55:43.600 [main] INFO  BStackDemo - Application Closed
+13:57:41.837 [main] INFO  BStackDemo - ChromeDriver Launched
+13:57:44.590 [main] INFO  BStackDemo - Opened application url
+13:57:44.715 [main] INFO  BStackDemo - URl Maximized
+13:57:45.784 [main] INFO  BStackDemo - Click on SignIn 
+13:57:45.896 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:45.899 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:46.276 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:46.278 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:46.298 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:46.299 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:46.322 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:46.323 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:46.342 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:46.343 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:46.359 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:46.360 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:46.374 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:46.375 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:46.390 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:46.391 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:46.406 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:46.407 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:46.423 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:46.424 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:46.439 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:46.439 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:46.454 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:46.455 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:46.468 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:46.470 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:46.488 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:46.488 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:46.502 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:46.502 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:46.522 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:46.523 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:46.536 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:46.537 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:46.549 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:46.550 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:46.564 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:46.565 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:46.576 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:46.576 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:57.457 [main] INFO  BStackDemo - Ss destination successful
+13:58:08.008 [main] INFO  BStackDemo - Ss destination successful
+13:58:18.528 [main] INFO  BStackDemo - Ss destination successful
+13:58:29.063 [main] INFO  BStackDemo - Ss destination successful
+13:58:39.597 [main] INFO  BStackDemo - Ss destination successful
+13:58:40.610 [main] INFO  BStackDemo - Application Closed
+14:03:00.822 [main] INFO  BStackDemo - ChromeDriver Launched
+14:03:05.951 [main] INFO  BStackDemo - Opened application url
+14:03:06.070 [main] INFO  BStackDemo - URl Maximized
+14:03:07.148 [main] INFO  BStackDemo - Click on SignIn 
+14:03:07.268 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:07.270 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:07.591 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:07.592 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:07.612 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:07.613 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:07.641 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:07.642 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:07.659 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:07.660 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:07.676 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:07.677 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:07.693 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:07.694 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:07.709 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:07.709 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:07.729 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:07.731 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:07.751 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:07.752 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:07.768 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:07.769 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:07.784 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:07.785 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:07.800 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:07.801 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:07.815 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:07.816 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:07.829 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:07.830 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:07.865 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:07.867 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:07.882 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:07.883 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:07.901 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:07.901 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:07.917 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:07.918 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:07.933 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:07.934 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:18.654 [main] INFO  BStackDemo - Screenshot destination successful
+14:03:18.654 [main] ERROR BStackDemo - Error taking or copying screenshot: The filename, directory name, or volume label syntax is incorrect
+14:03:29.171 [main] INFO  BStackDemo - Screenshot destination successful
+14:03:29.171 [main] ERROR BStackDemo - Error taking or copying screenshot: The filename, directory name, or volume label syntax is incorrect
+14:03:39.744 [main] INFO  BStackDemo - Screenshot destination successful
+14:03:39.745 [main] ERROR BStackDemo - Error taking or copying screenshot: The filename, directory name, or volume label syntax is incorrect
+14:03:50.251 [main] INFO  BStackDemo - Screenshot destination successful
+14:03:50.251 [main] ERROR BStackDemo - Error taking or copying screenshot: The filename, directory name, or volume label syntax is incorrect
+14:04:00.792 [main] INFO  BStackDemo - Screenshot destination successful
+14:04:00.793 [main] ERROR BStackDemo - Error taking or copying screenshot: The filename, directory name, or volume label syntax is incorrect
+14:04:01.804 [main] INFO  BStackDemo - Application Closed
+14:08:52.682 [main] INFO  BStackDemo - ChromeDriver Launched
+14:08:56.717 [main] INFO  BStackDemo - Opened application url
+14:08:56.838 [main] INFO  BStackDemo - URl Maximized
+14:08:57.910 [main] INFO  BStackDemo - Click on SignIn 
+14:08:58.021 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:58.024 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:58.383 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:58.384 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:58.406 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:58.407 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:58.432 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:58.433 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:58.449 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:58.451 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:58.467 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:58.468 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:58.483 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:58.483 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:58.498 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:58.500 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:58.520 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:58.521 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:58.542 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:58.542 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:58.557 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:58.558 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:58.571 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:58.572 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:58.584 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:58.586 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:58.599 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:58.600 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:58.612 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:58.613 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:58.636 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:58.637 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:58.652 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:58.653 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:58.667 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:58.669 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:58.680 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:58.681 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:58.695 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:58.696 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:09:00.081 [main] INFO  BStackDemo - Login Successful
+14:09:02.020 [main] INFO  BStackDemo - Login Successful
+14:09:03.902 [main] INFO  BStackDemo - Login Successful
+14:09:05.753 [main] INFO  BStackDemo - Login Successful
+14:09:17.447 [main] INFO  BStackDemo - Screenshot destination successful
+14:09:17.457 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestWed_Dec_27_14:09:17_IST_2023.png (The filename, directory name, or volume label syntax is incorrect)
+14:09:27.997 [main] INFO  BStackDemo - Screenshot destination successful
+14:09:27.997 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestWed_Dec_27_14:09:27_IST_2023.png (The filename, directory name, or volume label syntax is incorrect)
+14:09:38.513 [main] INFO  BStackDemo - Screenshot destination successful
+14:09:38.513 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestWed_Dec_27_14:09:38_IST_2023.png (The filename, directory name, or volume label syntax is incorrect)
+14:09:49.045 [main] INFO  BStackDemo - Screenshot destination successful
+14:09:49.045 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestWed_Dec_27_14:09:49_IST_2023.png (The filename, directory name, or volume label syntax is incorrect)
+14:09:59.561 [main] INFO  BStackDemo - Screenshot destination successful
+14:09:59.561 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestWed_Dec_27_14:09:59_IST_2023.png (The filename, directory name, or volume label syntax is incorrect)
+14:10:00.585 [main] INFO  BStackDemo - Application Closed
+14:13:32.332 [main] INFO  BStackDemo - ChromeDriver Launched
+14:13:34.646 [main] INFO  BStackDemo - Opened application url
+14:13:34.934 [main] INFO  BStackDemo - URl Maximized
+14:13:36.008 [main] INFO  BStackDemo - Click on SignIn 
+14:13:36.127 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:36.129 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:13:36.504 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:36.504 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:13:36.526 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:36.527 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:13:36.554 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:36.556 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:13:36.572 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:36.573 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:13:36.607 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:36.608 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:13:36.646 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:36.647 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:13:36.668 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:36.669 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:13:36.688 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:36.689 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:13:36.703 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:36.704 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:13:36.721 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:36.722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:13:36.735 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:36.737 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:13:36.751 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:36.753 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:13:36.764 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:36.765 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:13:36.779 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:36.780 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:13:36.808 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:36.809 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:13:36.825 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:36.826 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:13:36.837 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:36.838 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:13:36.853 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:36.854 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:13:36.872 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:36.873 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:13:47.712 [main] INFO  BStackDemo - Login Successful
+14:13:58.132 [main] INFO  BStackDemo - Login Successful
+14:14:08.562 [main] INFO  BStackDemo - Login Successful
+14:14:18.978 [main] INFO  BStackDemo - Login Successful
+14:14:39.312 [main] INFO  BStackDemo - Screenshot destination successful
+14:14:39.317 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestWed_Dec_27_14:14:39_IST_2023.png (The filename, directory name, or volume label syntax is incorrect)
+14:14:49.843 [main] INFO  BStackDemo - Screenshot destination successful
+14:14:49.843 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestWed_Dec_27_14:14:49_IST_2023.png (The filename, directory name, or volume label syntax is incorrect)
+14:15:00.359 [main] INFO  BStackDemo - Screenshot destination successful
+14:15:00.359 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestWed_Dec_27_14:15:00_IST_2023.png (The filename, directory name, or volume label syntax is incorrect)
+14:15:10.879 [main] INFO  BStackDemo - Screenshot destination successful
+14:15:10.879 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestWed_Dec_27_14:15:10_IST_2023.png (The filename, directory name, or volume label syntax is incorrect)
+14:15:21.374 [main] INFO  BStackDemo - Screenshot destination successful
+14:15:21.374 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestWed_Dec_27_14:15:21_IST_2023.png (The filename, directory name, or volume label syntax is incorrect)
+14:15:22.391 [main] INFO  BStackDemo - Application Closed
+15:04:12.164 [main] INFO  BStackDemo - ChromeDriver Launched
+15:04:18.559 [main] INFO  BStackDemo - Opened application url
+15:04:18.695 [main] INFO  BStackDemo - URl Maximized
+15:04:19.880 [main] INFO  BStackDemo - Click on SignIn 
+15:04:20.107 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:20.111 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:20.662 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:20.664 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:20.701 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:20.703 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:20.748 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:20.750 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:20.803 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:20.806 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:20.834 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:20.836 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:20.865 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:20.867 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:20.896 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:20.898 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:20.933 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:20.934 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:20.966 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:20.967 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:20.994 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:20.996 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:21.022 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:21.024 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:21.047 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:21.049 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:21.073 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:21.076 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:21.099 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:21.102 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:21.147 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:21.148 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:21.170 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:21.171 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:21.193 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:21.195 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:21.218 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:21.221 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:21.241 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:21.242 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:22.602 [main] INFO  BStackDemo - Login Successful
+15:04:25.131 [main] INFO  BStackDemo - Login Successful
+15:04:27.899 [main] INFO  BStackDemo - Login Successful
+15:04:30.274 [main] INFO  BStackDemo - Login Successful
+15:04:42.587 [main] INFO  BStackDemo - Screenshot destination successful
+15:04:42.587 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestWed_Dec_27_15:04:42_IST_2023.png (The filename, directory name, or volume label syntax is incorrect)
+15:04:53.405 [main] INFO  BStackDemo - Screenshot destination successful
+15:04:53.405 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestWed_Dec_27_15:04:53_IST_2023.png (The filename, directory name, or volume label syntax is incorrect)
+15:05:04.246 [main] INFO  BStackDemo - Screenshot destination successful
+15:05:04.246 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestWed_Dec_27_15:05:04_IST_2023.png (The filename, directory name, or volume label syntax is incorrect)
+15:05:14.866 [main] INFO  BStackDemo - Screenshot destination successful
+15:05:14.866 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestWed_Dec_27_15:05:14_IST_2023.png (The filename, directory name, or volume label syntax is incorrect)
+15:05:25.637 [main] INFO  BStackDemo - Screenshot destination successful
+15:05:25.637 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestWed_Dec_27_15:05:25_IST_2023.png (The filename, directory name, or volume label syntax is incorrect)
+15:05:26.661 [main] INFO  BStackDemo - Application Closed
+20:29:23.095 [main] INFO  BStackDemo - ChromeDriver Launched
+20:29:33.349 [main] INFO  BStackDemo - Opened application url
+20:29:33.657 [main] INFO  BStackDemo - URl Maximized
+20:29:35.370 [main] INFO  BStackDemo - Lowest to Highest Clicked
+20:29:35.796 [main] INFO  BStackDemo - [399, 429, 499, 499, 549, 599, 599, 599, 649, 699, 699, 699, 799, 799, 899, 899, 899, 899, 999, 999, 999, 1099, 1199, 1299, 1399]
+20:29:35.796 [main] INFO  BStackDemo - [399, 429, 499, 499, 549, 599, 599, 599, 649, 699, 699, 699, 799, 799, 899, 899, 899, 899, 999, 999, 999, 1099, 1199, 1299, 1399]
+20:29:35.798 [main] INFO  BStackDemo - In Ascending Order
+20:29:37.009 [main] INFO  BStackDemo - IN High to Low
+20:29:37.511 [main] INFO  BStackDemo - [1399, 1299, 1199, 1099, 999, 999, 999, 899, 899, 899, 899, 799, 799, 699, 699, 699, 649, 599, 599, 599, 549, 499, 499, 429, 399]
+20:29:37.511 [main] INFO  BStackDemo - [399, 429, 499, 499, 549, 599, 599, 599, 649, 699, 699, 699, 799, 799, 899, 899, 899, 899, 999, 999, 999, 1099, 1199, 1299, 1399]
+20:29:38.532 [main] INFO  BStackDemo - Application Closed
+20:30:22.026 [main] INFO  BStackDemo - ChromeDriver Launched
+20:30:31.766 [main] INFO  BStackDemo - Opened application url
+20:30:31.906 [main] INFO  BStackDemo - URl Maximized
+20:30:33.629 [main] INFO  BStackDemo - Lowest to Highest Clicked
+20:30:34.040 [main] INFO  BStackDemo - [399, 429, 499, 499, 549, 599, 599, 599, 649, 699, 699, 699, 799, 799, 899, 899, 899, 899, 999, 999, 999, 1099, 1199, 1299, 1399]
+20:30:34.040 [main] INFO  BStackDemo - [399, 429, 499, 499, 549, 599, 599, 599, 649, 699, 699, 699, 799, 799, 899, 899, 899, 899, 999, 999, 999, 1099, 1199, 1299, 1399]
+20:30:34.042 [main] INFO  BStackDemo - In Ascending Order
+20:30:36.274 [main] INFO  BStackDemo - IN High to Low
+20:30:36.721 [main] INFO  BStackDemo - [1399, 1299, 1199, 1099, 999, 999, 999, 899, 899, 899, 899, 799, 799, 699, 699, 699, 649, 599, 599, 599, 549, 499, 499, 429, 399]
+20:30:36.722 [main] INFO  BStackDemo - [1399, 1299, 1199, 1099, 999, 999, 999, 899, 899, 899, 899, 799, 799, 699, 699, 699, 649, 599, 599, 599, 549, 499, 499, 429, 399]
+20:30:36.722 [main] INFO  BStackDemo - In Descending Order
+20:30:38.757 [main] INFO  BStackDemo - Application Closed
+20:31:16.439 [main] INFO  BStackDemo - ChromeDriver Launched
+20:31:17.208 [main] INFO  BStackDemo - Opened application url
+20:31:38.522 [main] INFO  BStackDemo - ChromeDriver Launched
+20:31:39.556 [main] INFO  BStackDemo - Opened application url
+20:31:41.891 [main] INFO  BStackDemo - URl Maximized
+20:31:42.139 [main] INFO  BStackDemo - Clicked on Offers
+20:31:47.716 [main] INFO  BStackDemo - In SignIn Page
+20:31:50.340 [main] INFO  BStackDemo - Clicked on orders
+20:31:50.438 [main] INFO  BStackDemo - In SignIn Page
+20:31:53.591 [main] INFO  BStackDemo - Clicked on favourites
+20:31:53.675 [main] INFO  BStackDemo - In SignIn Page
+20:31:56.278 [main] INFO  BStackDemo - Clicked on bag
+20:31:56.335 [main] INFO  BStackDemo - Bag is Displayed
+20:31:56.446 [main] INFO  BStackDemo - Clicked on SignIn
+20:31:56.496 [main] INFO  BStackDemo - In SignIn Page
+20:32:00.677 [main] INFO  BStackDemo - Lowest to Highest Clicked
+20:32:01.068 [main] INFO  BStackDemo - In Ascending Order
+20:32:03.311 [main] INFO  BStackDemo - IN High to Low
+20:32:03.803 [main] INFO  BStackDemo - In Descending Order
+20:32:05.872 [main] INFO  BStackDemo - Application Closed
+12:39:11.888 [main] INFO  BStackDemo - ChromeDriver Launched
+12:39:21.805 [main] INFO  BStackDemo - Opened application url
+12:39:21.929 [main] INFO  BStackDemo - URl Maximized
+12:39:23.660 [main] INFO  BStackDemo - Lowest to Highest Clicked
+12:39:24.105 [main] INFO  BStackDemo - In Ascending Order
+12:39:26.326 [main] INFO  BStackDemo - IN High to Low
+12:39:26.734 [main] INFO  BStackDemo - In Descending Order
+12:39:31.141 [main] INFO  BStackDemo - Application Closed
+12:52:03.731 [main] INFO  BStackDemo - ChromeDriver Launched
+12:52:04.726 [main] INFO  BStackDemo - Opened application url
+12:52:16.127 [main] INFO  BStackDemo - URl Maximized
+12:52:17.856 [main] INFO  BStackDemo - Lowest to Highest Clicked
+12:52:18.298 [main] INFO  BStackDemo - In Ascending Order
+12:52:20.536 [main] INFO  BStackDemo - IN High to Low
+12:52:20.943 [main] INFO  BStackDemo - In Descending Order
+12:52:21.828 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:52:21.847 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:52:21.868 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:52:21.892 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:52:21.911 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:52:21.930 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:52:21.951 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:52:21.971 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:52:21.991 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:52:23.043 [main] INFO  BStackDemo - Application Closed
+12:53:36.475 [main] INFO  BStackDemo - ChromeDriver Launched
+12:53:45.656 [main] INFO  BStackDemo - Opened application url
+12:53:45.805 [main] INFO  BStackDemo - URl Maximized
+12:53:47.534 [main] INFO  BStackDemo - Lowest to Highest Clicked
+12:53:47.953 [main] INFO  BStackDemo - In Ascending Order
+12:53:50.167 [main] INFO  BStackDemo - IN High to Low
+12:53:50.753 [main] INFO  BStackDemo - In Descending Order
+12:53:52.082 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:53:52.098 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:53:52.114 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:53:52.132 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:53:52.148 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:53:52.165 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:53:52.183 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:53:52.199 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:53:52.216 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:53:53.243 [main] INFO  BStackDemo - Application Closed
+12:57:23.271 [main] INFO  BStackDemo - ChromeDriver Launched
+12:57:24.231 [main] INFO  BStackDemo - Opened application url
+12:57:39.952 [main] INFO  BStackDemo - URl Maximized
+12:57:40.374 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:57:40.396 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:57:40.418 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:57:40.439 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:57:40.463 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:57:40.485 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:57:40.508 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:57:40.529 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:57:40.552 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:57:41.592 [main] INFO  BStackDemo - Application Closed
+12:58:38.959 [main] INFO  BStackDemo - ChromeDriver Launched
+12:58:39.933 [main] INFO  BStackDemo - Opened application url
+12:58:48.012 [main] INFO  BStackDemo - URl Maximized
+12:58:48.386 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:58:48.403 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:58:48.418 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:58:48.434 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:58:48.449 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:58:48.465 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:58:48.482 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:58:48.497 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:58:48.512 [main] INFO  BStackDemo - Filtered according to the Brand:iPhone
+12:58:49.618 [main] INFO  BStackDemo - Application Closed
+13:01:33.896 [main] INFO  BStackDemo - ChromeDriver Launched
+13:01:34.956 [main] INFO  BStackDemo - Opened application url
+13:01:45.976 [main] INFO  BStackDemo - URl Maximized
+13:01:47.769 [main] INFO  BStackDemo - Application Closed
+13:06:30.143 [main] INFO  BStackDemo - ChromeDriver Launched
+13:06:33.365 [main] INFO  BStackDemo - Opened application url
+13:06:33.499 [main] INFO  BStackDemo - URl Maximized
+13:06:34.323 [main] INFO  BStackDemo - Only specific brand items are displayed:iPhone
+13:06:36.337 [main] INFO  BStackDemo - Application Closed
+13:10:35.857 [main] INFO  BStackDemo - ChromeDriver Launched
+13:10:36.830 [main] INFO  BStackDemo - Opened application url
+13:10:45.328 [main] INFO  BStackDemo - URl Maximized
+13:10:46.974 [main] INFO  BStackDemo - Application Closed
+13:11:35.457 [main] INFO  BStackDemo - ChromeDriver Launched
+13:11:37.620 [main] INFO  BStackDemo - Opened application url
+13:11:40.132 [main] INFO  BStackDemo - URl Maximized
+13:11:41.173 [main] INFO  BStackDemo - Only specific brand items are displayed:iPhone
+13:11:51.255 [main] INFO  BStackDemo - Application Closed
+13:12:51.871 [main] INFO  BStackDemo - ChromeDriver Launched
+13:13:00.970 [main] INFO  BStackDemo - Opened application url
+13:13:01.125 [main] INFO  BStackDemo - URl Maximized
+13:13:03.866 [main] INFO  BStackDemo - Application Closed
+13:14:00.529 [main] INFO  BStackDemo - ChromeDriver Launched
+13:14:09.701 [main] INFO  BStackDemo - Opened application url
+13:14:09.845 [main] INFO  BStackDemo - URl Maximized
+13:14:12.594 [main] INFO  BStackDemo - Application Closed
+14:00:54.159 [main] INFO  BStackDemo - ChromeDriver Launched
+14:00:56.994 [main] INFO  BStackDemo - Opened application url
+14:00:57.129 [main] INFO  BStackDemo - URl Maximized
+14:00:58.656 [main] INFO  BStackDemo - Only specific brand items are displayed:Galaxy
+14:01:01.785 [main] INFO  BStackDemo - Only specific brand items are displayed:Pixel
+14:01:05.966 [main] INFO  BStackDemo - Only specific brand items are displayed:One Plus
+14:01:08.374 [main] INFO  BStackDemo - Application Closed
+17:57:59.360 [main] INFO  BStackDemo - ChromeDriver Launched
+17:58:05.046 [main] INFO  BStackDemo - Opened application url
+17:58:05.188 [main] INFO  BStackDemo - URl Maximized
+17:58:06.253 [main] INFO  BStackDemo - Application Closed
+18:40:51.976 [main] INFO  BStackDemo - ChromeDriver Launched
+18:41:00.915 [main] INFO  BStackDemo - Opened application url
+18:41:01.047 [main] INFO  BStackDemo - URl Maximized
+18:41:03.413 [main] INFO  BStackDemo - Application Closed
+18:58:24.117 [main] INFO  BStackDemo - ChromeDriver Launched
+18:58:34.122 [main] INFO  BStackDemo - Opened application url
+18:58:34.317 [main] INFO  BStackDemo - URl Maximized
+18:58:50.621 [main] INFO  BStackDemo - Application Closed
+19:00:12.073 [main] INFO  BStackDemo - ChromeDriver Launched
+19:00:21.135 [main] INFO  BStackDemo - Opened application url
+19:00:21.270 [main] INFO  BStackDemo - URl Maximized
+19:00:37.717 [main] INFO  BStackDemo - Application Closed
+19:01:19.220 [main] INFO  BStackDemo - ChromeDriver Launched
+19:01:23.807 [main] INFO  BStackDemo - Opened application url
+19:01:23.979 [main] INFO  BStackDemo - URl Maximized
+19:01:42.336 [main] INFO  BStackDemo - Application Closed
+19:02:45.376 [main] INFO  BStackDemo - ChromeDriver Launched
+19:02:49.109 [main] INFO  BStackDemo - Opened application url
+19:02:49.250 [main] INFO  BStackDemo - URl Maximized
+19:03:12.437 [main] INFO  BStackDemo - 0 25
+19:03:14.478 [main] INFO  BStackDemo - Application Closed
+19:05:13.809 [main] INFO  BStackDemo - ChromeDriver Launched
+19:05:24.521 [main] INFO  BStackDemo - Opened application url
+19:05:24.660 [main] INFO  BStackDemo - URl Maximized
+19:05:30.991 [main] INFO  BStackDemo - 25 25
+19:05:32.002 [main] INFO  BStackDemo - Same Number of Products in Homepage and Favouritespage
+19:05:33.016 [main] INFO  BStackDemo - Application Closed
+15:04:46.457 [main] INFO  BStackDemo - ChromeDriver Launched
+15:04:51.173 [main] INFO  BStackDemo - Opened application url
+15:04:51.302 [main] INFO  BStackDemo - URl Maximized
+15:04:53.690 [main] INFO  BStackDemo - iPhone 11 Pro added
+15:04:55.137 [main] INFO  BStackDemo - Pixel 3
+15:04:56.554 [main] INFO  BStackDemo - One Plus 7T
+15:04:57.659 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+15:04:58.775 [main] INFO  BStackDemo - Quantiy :One Plus 7T increased
+15:05:00.899 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+15:05:01.947 [main] INFO  BStackDemo - Bag Closed
+15:05:01.997 [main] INFO  BStackDemo - Clicked on Bag
+15:05:02.032 [main] INFO  BStackDemo - Clicked on CheckOut Page
+15:05:03.049 [main] INFO  BStackDemo - Application Closed
+15:14:58.004 [main] INFO  BStackDemo - ChromeDriver Launched
+15:15:01.888 [main] INFO  BStackDemo - Opened application url
+15:15:02.020 [main] INFO  BStackDemo - URl Maximized
+15:15:04.370 [main] INFO  BStackDemo - iPhone 11 Pro added
+15:15:05.842 [main] INFO  BStackDemo - Pixel 3
+15:15:07.258 [main] INFO  BStackDemo - One Plus 7T
+15:15:08.357 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+15:15:09.455 [main] INFO  BStackDemo - Quantiy :One Plus 7T increased
+15:15:11.574 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+15:15:12.631 [main] INFO  BStackDemo - Bag Closed
+15:15:12.675 [main] INFO  BStackDemo - Clicked on Bag
+15:15:12.710 [main] INFO  BStackDemo - Clicked on CheckOut Page
+15:15:13.739 [main] INFO  BStackDemo - Application Closed
+15:15:30.710 [main] INFO  BStackDemo - ChromeDriver Launched
+15:15:33.196 [main] INFO  BStackDemo - Opened application url
+15:15:33.363 [main] INFO  BStackDemo - URl Maximized
+15:15:36.664 [main] INFO  BStackDemo - iPhone 11 Pro added
+15:15:38.105 [main] INFO  BStackDemo - Pixel 3
+15:15:39.556 [main] INFO  BStackDemo - One Plus 7T
+15:15:40.669 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+15:15:41.766 [main] INFO  BStackDemo - Quantiy :One Plus 7T increased
+15:15:43.889 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+15:15:44.945 [main] INFO  BStackDemo - Bag Closed
+15:15:44.989 [main] INFO  BStackDemo - Clicked on Bag
+15:15:45.025 [main] INFO  BStackDemo - Clicked on CheckOut Page
+15:15:46.042 [main] INFO  BStackDemo - Application Closed
+15:23:01.702 [main] INFO  BStackDemo - ChromeDriver Launched
+15:23:05.636 [main] INFO  BStackDemo - Opened application url
+15:23:05.755 [main] INFO  BStackDemo - URl Maximized
+15:23:08.092 [main] INFO  BStackDemo - iPhone 11 Pro added
+15:23:09.559 [main] INFO  BStackDemo - Pixel 3
+15:23:10.977 [main] INFO  BStackDemo - One Plus 7T
+15:23:12.093 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+15:23:13.202 [main] INFO  BStackDemo - Quantiy :One Plus 7T increased
+15:23:15.310 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+15:23:16.367 [main] INFO  BStackDemo - Bag Closed
+15:23:17.426 [main] INFO  BStackDemo - Clicked on Bag
+15:23:18.478 [main] INFO  BStackDemo - Clicked on CheckOut Page
+15:23:18.478 [main] INFO  BStackDemo - In CheckOut Page
+15:23:19.507 [main] INFO  BStackDemo - Application Closed
+15:26:40.919 [main] INFO  BStackDemo - ChromeDriver Launched
+15:26:47.242 [main] INFO  BStackDemo - Opened application url
+15:26:47.360 [main] INFO  BStackDemo - URl Maximized
+15:26:49.734 [main] INFO  BStackDemo - iPhone 11 Pro added
+15:26:51.276 [main] INFO  BStackDemo - Pixel 3
+15:26:52.704 [main] INFO  BStackDemo - One Plus 7T
+15:26:53.796 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+15:26:54.900 [main] INFO  BStackDemo - Quantiy :One Plus 7T increased
+15:26:57.028 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+15:26:58.084 [main] INFO  BStackDemo - Bag Closed
+15:26:59.127 [main] INFO  BStackDemo - Clicked on Bag
+15:27:00.167 [main] INFO  BStackDemo - Clicked on CheckOut Page
+15:27:00.183 [main] INFO  BStackDemo - In CheckOut Page
+15:27:01.212 [main] INFO  BStackDemo - Application Closed
+15:38:42.120 [main] INFO  BStackDemo - ChromeDriver Launched
+15:38:46.198 [main] INFO  BStackDemo - Opened application url
+15:38:46.314 [main] INFO  BStackDemo - URl Maximized
+15:38:48.689 [main] INFO  BStackDemo - iPhone 11 Pro added
+15:38:50.124 [main] INFO  BStackDemo - Pixel 3
+15:38:51.530 [main] INFO  BStackDemo - One Plus 7T
+15:38:52.642 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+15:38:53.743 [main] INFO  BStackDemo - Quantiy :One Plus 7T increased
+15:38:55.850 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+15:38:56.903 [main] INFO  BStackDemo - Bag Closed
+15:38:57.947 [main] INFO  BStackDemo - Clicked on Bag
+15:38:58.999 [main] INFO  BStackDemo - Clicked on CheckOut Page
+15:38:59.015 [main] INFO  BStackDemo - In CheckOut Page
+15:39:00.039 [main] INFO  BStackDemo - Application Closed
+15:47:11.941 [main] INFO  BStackDemo - ChromeDriver Launched
+15:47:17.322 [main] INFO  BStackDemo - Opened application url
+15:47:17.449 [main] INFO  BStackDemo - URl Maximized
+15:47:19.790 [main] INFO  BStackDemo - iPhone 11 Pro added
+15:47:21.237 [main] INFO  BStackDemo - Pixel 3
+15:47:22.661 [main] INFO  BStackDemo - One Plus 7T
+15:47:23.891 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+15:47:25.103 [main] INFO  BStackDemo - Quantiy :One Plus 7T increased
+15:47:27.229 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+15:47:28.274 [main] INFO  BStackDemo - Bag Closed
+15:47:29.362 [main] INFO  BStackDemo - Clicked on Bag
+15:47:30.415 [main] INFO  BStackDemo - Clicked on CheckOut Page
+15:47:30.444 [main] INFO  BStackDemo - In CheckOut Page
+15:47:31.461 [main] INFO  BStackDemo - Application Closed
+15:48:22.383 [main] INFO  BStackDemo - ChromeDriver Launched
+15:48:26.792 [main] INFO  BStackDemo - Opened application url
+15:48:26.909 [main] INFO  BStackDemo - URl Maximized
+15:48:29.234 [main] INFO  BStackDemo - iPhone 11 Pro added
+15:48:30.692 [main] INFO  BStackDemo - Pixel 3
+15:48:32.104 [main] INFO  BStackDemo - One Plus 7T
+15:48:35.358 [main] INFO  BStackDemo - Application Closed
+15:49:35.063 [main] INFO  BStackDemo - ChromeDriver Launched
+15:49:40.166 [main] INFO  BStackDemo - Opened application url
+15:49:40.283 [main] INFO  BStackDemo - URl Maximized
+15:49:42.645 [main] INFO  BStackDemo - iPhone 11 Pro added
+15:49:44.096 [main] INFO  BStackDemo - Pixel 3
+15:49:45.499 [main] INFO  BStackDemo - One Plus 7T
+15:49:48.773 [main] INFO  BStackDemo - Application Closed
+15:56:54.493 [main] INFO  BStackDemo - ChromeDriver Launched
+15:56:58.428 [main] INFO  BStackDemo - Opened application url
+15:56:58.552 [main] INFO  BStackDemo - URl Maximized
+15:57:06.976 [main] INFO  BStackDemo - iPhone 11 Pro added
+15:57:08.428 [main] INFO  BStackDemo - Pixel 3
+15:57:09.847 [main] INFO  BStackDemo - One Plus 7T
+15:57:17.170 [main] INFO  BStackDemo - Application Closed
+16:07:17.842 [main] INFO  BStackDemo - ChromeDriver Launched
+16:07:19.297 [main] INFO  BStackDemo - Opened application url
+16:07:26.331 [main] INFO  BStackDemo - ChromeDriver Launched
+16:07:32.843 [main] INFO  BStackDemo - Opened application url
+16:07:32.976 [main] INFO  BStackDemo - URl Maximized
+16:07:35.343 [main] INFO  BStackDemo - iPhone 11 Pro added
+16:07:36.790 [main] INFO  BStackDemo - Pixel 3
+16:07:38.208 [main] INFO  BStackDemo - One Plus 7T
+16:07:41.438 [main] INFO  BStackDemo - Application Closed
+16:10:47.540 [main] INFO  BStackDemo - ChromeDriver Launched
+16:10:48.490 [main] INFO  BStackDemo - Opened application url
+16:11:06.651 [main] INFO  BStackDemo - URl Maximized
+16:11:09.951 [main] INFO  BStackDemo - iPhone 11 Pro added
+16:11:11.893 [main] INFO  BStackDemo - Pixel 3
+16:11:13.867 [main] INFO  BStackDemo - One Plus 7T
+16:11:17.426 [main] INFO  BStackDemo - Application Closed
+16:12:49.288 [main] INFO  BStackDemo - ChromeDriver Launched
+16:12:50.246 [main] INFO  BStackDemo - Opened application url
+16:12:57.564 [main] INFO  BStackDemo - URl Maximized
+16:13:00.974 [main] INFO  BStackDemo - iPhone 11 Pro added
+16:13:02.851 [main] INFO  BStackDemo - Pixel 3
+16:13:04.708 [main] INFO  BStackDemo - One Plus 7T
+16:13:05.926 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+16:13:07.140 [main] INFO  BStackDemo - Quantiy :One Plus 7T increased
+16:13:08.149 [main] INFO  BStackDemo - ******
+16:13:09.280 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+16:13:10.371 [main] INFO  BStackDemo - Bag Closed
+16:13:11.460 [main] INFO  BStackDemo - Clicked on Bag
+16:13:22.581 [main] INFO  BStackDemo - Application Closed
+16:15:19.874 [main] INFO  BStackDemo - ChromeDriver Launched
+16:15:23.119 [main] INFO  BStackDemo - Opened application url
+16:15:23.247 [main] INFO  BStackDemo - URl Maximized
+16:15:34.578 [main] INFO  BStackDemo - Application Closed
+16:16:01.792 [main] INFO  BStackDemo - ChromeDriver Launched
+16:16:05.635 [main] INFO  BStackDemo - Opened application url
+16:16:05.781 [main] INFO  BStackDemo - URl Maximized
+16:16:14.766 [main] INFO  BStackDemo - iPhone 11 Pro added
+16:16:16.754 [main] INFO  BStackDemo - Pixel 3
+16:16:18.807 [main] INFO  BStackDemo - One Plus 7T
+16:16:22.416 [main] INFO  BStackDemo - Application Closed
+16:17:26.048 [main] INFO  BStackDemo - ChromeDriver Launched
+16:17:36.144 [main] INFO  BStackDemo - Opened application url
+16:17:36.281 [main] INFO  BStackDemo - URl Maximized
+16:17:39.766 [main] INFO  BStackDemo - iPhone 11 Pro added
+16:17:41.742 [main] INFO  BStackDemo - Pixel 3
+16:17:43.553 [main] INFO  BStackDemo - One Plus 7T
+16:17:44.800 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+16:17:46.151 [main] INFO  BStackDemo - Quantiy :One Plus 7T increased
+16:17:47.163 [main] INFO  BStackDemo - ******
+16:17:48.269 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+16:17:49.343 [main] INFO  BStackDemo - Bag Closed
+16:17:51.482 [main] INFO  BStackDemo - Application Closed
+16:18:21.398 [main] INFO  BStackDemo - ChromeDriver Launched
+16:18:24.441 [main] INFO  BStackDemo - Opened application url
+16:18:24.580 [main] INFO  BStackDemo - URl Maximized
+16:18:33.497 [main] INFO  BStackDemo - iPhone 11 Pro added
+16:18:35.420 [main] INFO  BStackDemo - Pixel 3
+16:18:37.229 [main] INFO  BStackDemo - One Plus 7T
+16:18:38.305 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+16:18:39.370 [main] INFO  BStackDemo - Quantiy :One Plus 7T increased
+16:18:40.388 [main] INFO  BStackDemo - ******
+16:18:41.548 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+16:18:42.668 [main] INFO  BStackDemo - Bag Closed
+16:18:43.751 [main] INFO  BStackDemo - Clicked on Bag
+16:18:44.868 [main] INFO  BStackDemo - Clicked on CheckOut Page
+16:18:44.893 [main] INFO  BStackDemo - In CheckOut Page
+16:18:45.914 [main] INFO  BStackDemo - Application Closed
+16:19:15.386 [main] INFO  BStackDemo - ChromeDriver Launched
+16:19:23.798 [main] INFO  BStackDemo - Opened application url
+16:19:23.924 [main] INFO  BStackDemo - URl Maximized
+16:19:27.486 [main] INFO  BStackDemo - iPhone 11 Pro added
+16:19:29.542 [main] INFO  BStackDemo - Pixel 3
+16:19:31.373 [main] INFO  BStackDemo - One Plus 7T
+16:19:32.439 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+16:19:33.503 [main] INFO  BStackDemo - Quantiy :One Plus 7T increased
+16:19:34.506 [main] INFO  BStackDemo - ******
+16:19:35.616 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+16:19:36.719 [main] INFO  BStackDemo - Bag Closed
+16:19:37.821 [main] INFO  BStackDemo - Clicked on Bag
+16:19:48.919 [main] INFO  BStackDemo - Application Closed
+16:20:58.532 [main] INFO  BStackDemo - ChromeDriver Launched
+16:21:06.924 [main] INFO  BStackDemo - Opened application url
+16:21:07.061 [main] INFO  BStackDemo - URl Maximized
+16:21:09.780 [main] INFO  BStackDemo - iPhone 11 Pro added
+16:21:10.789 [main] INFO  BStackDemo - Pixel 3
+16:21:11.589 [main] INFO  BStackDemo - One Plus 7T
+16:21:14.702 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+16:21:18.086 [main] INFO  BStackDemo - Quantiy :One Plus 7T increased
+16:21:21.091 [main] INFO  BStackDemo - ******
+16:21:22.238 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+16:21:23.313 [main] INFO  BStackDemo - Bag Closed
+16:21:24.416 [main] INFO  BStackDemo - Clicked on Bag
+16:21:25.529 [main] INFO  BStackDemo - Clicked on CheckOut Page
+16:21:25.545 [main] INFO  BStackDemo - In CheckOut Page
+16:21:26.556 [main] INFO  BStackDemo - Application Closed
+16:22:28.373 [main] INFO  BStackDemo - ChromeDriver Launched
+16:22:36.478 [main] INFO  BStackDemo - Opened application url
+16:22:36.611 [main] INFO  BStackDemo - URl Maximized
+16:22:39.129 [main] INFO  BStackDemo - iPhone 11 Pro added
+16:22:40.137 [main] INFO  BStackDemo - Pixel 3
+16:22:40.958 [main] INFO  BStackDemo - One Plus 7T
+16:22:44.067 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+16:22:47.416 [main] INFO  BStackDemo - Quantiy :One Plus 7T increased
+16:22:50.434 [main] INFO  BStackDemo - ******
+16:22:51.565 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+16:22:52.664 [main] INFO  BStackDemo - Bag Closed
+16:22:53.765 [main] INFO  BStackDemo - Clicked on Bag
+16:22:54.824 [main] INFO  BStackDemo - Clicked on CheckOut Page
+16:22:54.846 [main] INFO  BStackDemo - In CheckOut Page
+16:22:55.857 [main] INFO  BStackDemo - Application Closed
+16:23:16.998 [main] INFO  BStackDemo - ChromeDriver Launched
+16:23:26.339 [main] INFO  BStackDemo - Opened application url
+16:23:26.475 [main] INFO  BStackDemo - URl Maximized
+16:23:29.357 [main] INFO  BStackDemo - iPhone 11 Pro added
+16:23:30.096 [main] INFO  BStackDemo - Pixel 3
+16:23:30.717 [main] INFO  BStackDemo - One Plus 7T
+16:23:36.300 [main] INFO  BStackDemo - Application Closed
+16:26:21.009 [main] INFO  BStackDemo - ChromeDriver Launched
+16:26:30.765 [main] INFO  BStackDemo - Opened application url
+16:26:30.911 [main] INFO  BStackDemo - URl Maximized
+16:26:33.546 [main] INFO  BStackDemo - iPhone 11 Pro added
+16:26:34.258 [main] INFO  BStackDemo - Pixel 3
+16:26:34.927 [main] INFO  BStackDemo - One Plus 7T
+16:26:38.391 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+16:26:41.922 [main] INFO  BStackDemo - Quantiy :One Plus 7T increased
+16:26:44.932 [main] INFO  BStackDemo - ******
+16:26:46.045 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+16:26:47.151 [main] INFO  BStackDemo - Bag Closed
+16:26:48.238 [main] INFO  BStackDemo - Clicked on Bag
+16:26:59.374 [main] INFO  BStackDemo - Application Closed
+16:33:02.163 [main] INFO  BStackDemo - ChromeDriver Launched
+16:33:11.565 [main] INFO  BStackDemo - Opened application url
+16:33:11.701 [main] INFO  BStackDemo - URl Maximized
+16:33:14.512 [main] INFO  BStackDemo - iPhone 11 Pro added
+16:33:15.440 [main] INFO  BStackDemo - Pixel 3
+16:33:16.085 [main] INFO  BStackDemo - One Plus 7T
+16:33:19.311 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+16:33:22.560 [main] INFO  BStackDemo - Quantiy :One Plus 7T increased
+16:33:25.566 [main] INFO  BStackDemo - ******
+16:33:26.684 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+16:33:27.789 [main] INFO  BStackDemo - Bag Closed
+16:33:28.954 [main] INFO  BStackDemo - Clicked on Bag
+16:33:30.033 [main] INFO  BStackDemo - Clicked on CheckOut Page
+16:33:31.077 [main] INFO  BStackDemo - Application Closed
+16:37:45.552 [main] INFO  BStackDemo - ChromeDriver Launched
+16:37:54.075 [main] INFO  BStackDemo - Opened application url
+16:37:54.220 [main] INFO  BStackDemo - URl Maximized
+16:37:56.864 [main] INFO  BStackDemo - iPhone 11 Pro added
+16:37:57.610 [main] INFO  BStackDemo - Pixel 3
+16:37:58.248 [main] INFO  BStackDemo - One Plus 7T
+16:38:01.468 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+16:38:04.629 [main] INFO  BStackDemo - Quantiy :One Plus 7T increased
+16:38:07.640 [main] INFO  BStackDemo - ******
+16:38:08.754 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+16:38:09.871 [main] INFO  BStackDemo - Bag Closed
+16:38:12.013 [main] INFO  BStackDemo - Application Closed
+16:46:42.815 [main] INFO  BStackDemo - ChromeDriver Launched
+16:46:52.014 [main] INFO  BStackDemo - Opened application url
+16:46:52.147 [main] INFO  BStackDemo - URl Maximized
+16:46:54.902 [main] INFO  BStackDemo - iPhone 11 Pro added
+16:46:55.676 [main] INFO  BStackDemo - Pixel 3
+16:46:56.392 [main] INFO  BStackDemo - One Plus 7T
+16:47:01.855 [main] INFO  BStackDemo - Application Closed
+17:03:20.964 [main] INFO  BStackDemo - ChromeDriver Launched
+17:03:32.946 [main] INFO  BStackDemo - Opened application url
+17:03:33.083 [main] INFO  BStackDemo - URl Maximized
+17:03:36.031 [main] INFO  BStackDemo - iPhone 11 Pro added
+17:03:36.826 [main] INFO  BStackDemo - Pixel 3
+17:03:37.502 [main] INFO  BStackDemo - One Plus 7T
+17:03:40.828 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+17:03:46.126 [main] INFO  BStackDemo - Application Closed
+17:07:57.116 [main] INFO  BStackDemo - ChromeDriver Launched
+17:08:06.136 [main] INFO  BStackDemo - Opened application url
+17:08:06.288 [main] INFO  BStackDemo - URl Maximized
+17:08:08.764 [main] INFO  BStackDemo - iPhone 11 Pro added
+17:08:09.484 [main] INFO  BStackDemo - Pixel 3
+17:08:10.167 [main] INFO  BStackDemo - One Plus 7T
+17:08:13.482 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+17:08:18.854 [main] INFO  BStackDemo - Application Closed
+17:13:59.727 [main] INFO  BStackDemo - ChromeDriver Launched
+17:14:00.672 [main] INFO  BStackDemo - Opened application url
+17:14:09.544 [main] INFO  BStackDemo - URl Maximized
+17:14:12.274 [main] INFO  BStackDemo - iPhone 11 Pro added
+17:14:13.043 [main] INFO  BStackDemo - Pixel 3
+17:14:13.691 [main] INFO  BStackDemo - One Plus 7T
+17:14:16.950 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+17:14:22.291 [main] INFO  BStackDemo - Application Closed
+17:15:06.166 [main] INFO  BStackDemo - ChromeDriver Launched
+17:15:07.238 [main] INFO  BStackDemo - Opened application url
+17:15:13.245 [main] INFO  BStackDemo - URl Maximized
+17:15:16.067 [main] INFO  BStackDemo - iPhone 11 Pro added
+17:15:17.052 [main] INFO  BStackDemo - Pixel 3
+17:15:17.905 [main] INFO  BStackDemo - One Plus 7T
+17:15:21.212 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+17:15:26.512 [main] INFO  BStackDemo - Application Closed
+17:18:33.541 [main] INFO  BStackDemo - ChromeDriver Launched
+17:18:36.964 [main] INFO  BStackDemo - Opened application url
+17:18:37.142 [main] INFO  BStackDemo - URl Maximized
+17:18:45.134 [main] INFO  BStackDemo - iPhone 11 Pro added
+17:18:45.975 [main] INFO  BStackDemo - Pixel 3
+17:18:46.646 [main] INFO  BStackDemo - One Plus 7T
+17:18:49.831 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+17:18:55.069 [main] INFO  BStackDemo - Application Closed
+17:22:29.543 [main] INFO  BStackDemo - ChromeDriver Launched
+17:22:34.861 [main] INFO  BStackDemo - Opened application url
+17:22:34.998 [main] INFO  BStackDemo - URl Maximized
+17:22:37.570 [main] INFO  BStackDemo - iPhone 11 Pro added
+17:22:38.266 [main] INFO  BStackDemo - Pixel 3
+17:22:38.951 [main] INFO  BStackDemo - One Plus 7T
+17:22:42.192 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+17:22:47.462 [main] INFO  BStackDemo - Application Closed
+17:33:40.451 [main] INFO  BStackDemo - ChromeDriver Launched
+17:33:44.964 [main] INFO  BStackDemo - Opened application url
+17:33:45.099 [main] INFO  BStackDemo - URl Maximized
+17:33:53.388 [main] INFO  BStackDemo - iPhone 11 Pro added
+17:33:54.215 [main] INFO  BStackDemo - Pixel 3
+17:33:54.914 [main] INFO  BStackDemo - One Plus 7T
+17:33:58.078 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+17:34:03.347 [main] INFO  BStackDemo - Application Closed
+17:34:42.595 [main] INFO  BStackDemo - ChromeDriver Launched
+17:34:57.011 [main] INFO  BStackDemo - Opened application url
+17:34:57.139 [main] INFO  BStackDemo - URl Maximized
+17:35:00.239 [main] INFO  BStackDemo - iPhone 11 Pro added
+17:35:01.084 [main] INFO  BStackDemo - Pixel 3
+17:35:01.725 [main] INFO  BStackDemo - One Plus 7T
+17:35:05.887 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+17:35:11.202 [main] INFO  BStackDemo - Application Closed
+17:35:36.683 [main] INFO  BStackDemo - ChromeDriver Launched
+17:35:56.376 [main] INFO  BStackDemo - Opened application url
+17:35:56.519 [main] INFO  BStackDemo - URl Maximized
+17:35:59.033 [main] INFO  BStackDemo - iPhone 11 Pro added
+17:35:59.799 [main] INFO  BStackDemo - Pixel 3
+17:36:00.477 [main] INFO  BStackDemo - One Plus 7T
+17:36:04.685 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+17:36:09.958 [main] INFO  BStackDemo - Application Closed
+17:39:41.721 [main] INFO  BStackDemo - ChromeDriver Launched
+17:39:42.711 [main] INFO  BStackDemo - Opened application url
+17:39:54.089 [main] INFO  BStackDemo - URl Maximized
+17:39:56.731 [main] INFO  BStackDemo - iPhone 11 Pro added
+17:39:57.474 [main] INFO  BStackDemo - Pixel 3
+17:39:58.120 [main] INFO  BStackDemo - One Plus 7T
+17:40:02.350 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+17:40:05.359 [main] INFO  BStackDemo - ******
+17:40:06.466 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+17:40:07.583 [main] INFO  BStackDemo - Bag Closed
+17:40:08.697 [main] INFO  BStackDemo - Clicked on Bag
+17:40:19.800 [main] INFO  BStackDemo - Application Closed
+17:41:04.065 [main] INFO  BStackDemo - ChromeDriver Launched
+17:41:06.899 [main] INFO  BStackDemo - Opened application url
+17:41:07.080 [main] INFO  BStackDemo - URl Maximized
+17:41:48.054 [main] INFO  BStackDemo - ChromeDriver Launched
+17:41:56.938 [main] INFO  BStackDemo - Opened application url
+17:41:57.075 [main] INFO  BStackDemo - URl Maximized
+17:41:59.638 [main] INFO  BStackDemo - iPhone 11 Pro added
+17:42:00.400 [main] INFO  BStackDemo - Pixel 3
+17:42:01.073 [main] INFO  BStackDemo - One Plus 7T
+17:42:05.250 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+17:42:09.419 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+17:42:10.494 [main] INFO  BStackDemo - Bag Closed
+17:42:12.593 [main] INFO  BStackDemo - Clicked on Bag
+17:42:13.679 [main] INFO  BStackDemo - Clicked on CheckOut Page
+17:42:14.740 [main] INFO  BStackDemo - Application Closed
+17:45:52.553 [main] INFO  BStackDemo - ChromeDriver Launched
+17:46:03.031 [main] INFO  BStackDemo - Opened application url
+17:46:03.167 [main] INFO  BStackDemo - URl Maximized
+17:46:05.708 [main] INFO  BStackDemo - iPhone 11 Pro added
+17:46:06.391 [main] INFO  BStackDemo - Pixel 3
+17:46:07.065 [main] INFO  BStackDemo - One Plus 7T
+17:46:11.297 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+17:46:15.432 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+17:46:16.549 [main] INFO  BStackDemo - Bag Closed
+17:46:18.691 [main] INFO  BStackDemo - Clicked on Bag
+17:46:19.803 [main] INFO  BStackDemo - Clicked on CheckOut Page
+17:46:19.980 [main] INFO  BStackDemo - In CheckOut Page
+17:46:20.993 [main] INFO  BStackDemo - Application Closed
+12:51:02.054 [main] INFO  BStackDemo - ChromeDriver Launched
+12:51:02.986 [main] INFO  BStackDemo - Opened application url
+12:51:06.030 [main] INFO  BStackDemo - URl Maximized
+12:51:08.398 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:08.398 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:08.863 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:08.864 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:08.893 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:08.894 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:08.922 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:08.923 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:08.943 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:08.944 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:08.963 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:08.965 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:08.983 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:08.983 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:08.998 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:08.998 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.014 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.014 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.030 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.046 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.062 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.062 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.078 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.078 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.093 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.093 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.109 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.109 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.125 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.125 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.162 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.162 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.188 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.188 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.216 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.217 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.239 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.240 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.270 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.270 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.289 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.334 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.337 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.353 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.354 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.370 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.372 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.388 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.390 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.406 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.407 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.423 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.424 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.440 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.441 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.455 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.456 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.472 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.472 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.487 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.488 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.504 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.507 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.518 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.518 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.534 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.534 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.550 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.550 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.566 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.566 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.582 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.582 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.582 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.598 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.598 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.598 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.614 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.614 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.630 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.630 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.645 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.645 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.645 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.645 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.661 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.661 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.677 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.677 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.693 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.693 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:09.709 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:51:09.709 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:51:11.143 [main] INFO  BStackDemo - Your Order has been successfully placed.
+12:51:12.237 [main] INFO  BStackDemo - Clicked on Continue Shopping
+12:51:24.158 [main] ERROR BStackDemo - Fill the details
+12:51:26.812 [main] INFO  BStackDemo - Your Order has been successfully placed.
+12:51:27.899 [main] INFO  BStackDemo - Clicked on Continue Shopping
+12:51:39.780 [main] ERROR BStackDemo - Fill the details
+12:51:41.893 [main] INFO  BStackDemo - Your Order has been successfully placed.
+12:51:42.996 [main] INFO  BStackDemo - Clicked on Continue Shopping
+12:51:54.830 [main] ERROR BStackDemo - Fill the details
+12:51:56.983 [main] INFO  BStackDemo - Your Order has been successfully placed.
+12:51:58.063 [main] INFO  BStackDemo - Clicked on Continue Shopping
+12:52:00.102 [main] INFO  BStackDemo - Your Order has been successfully placed.
+12:52:01.190 [main] INFO  BStackDemo - Clicked on Continue Shopping
+12:52:03.198 [main] INFO  BStackDemo - Your Order has been successfully placed.
+12:52:04.275 [main] INFO  BStackDemo - Clicked on Continue Shopping
+12:52:06.780 [main] INFO  BStackDemo - Application Closed
+12:56:16.488 [main] INFO  BStackDemo - ChromeDriver Launched
+12:56:20.542 [main] INFO  BStackDemo - Opened application url
+12:56:20.659 [main] INFO  BStackDemo - URl Maximized
+12:56:21.732 [main] INFO  BStackDemo - Click on SignIn 
+12:56:21.859 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:56:21.859 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:56:22.192 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:56:22.192 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:56:22.207 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:56:22.207 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:56:22.239 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:56:22.239 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:56:22.271 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:56:22.271 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:56:22.287 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:56:22.287 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:56:22.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:56:22.319 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:56:22.335 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:56:22.335 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:56:22.350 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:56:22.350 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:56:22.382 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:56:22.382 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:56:22.398 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:56:22.398 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:56:22.414 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:56:22.414 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:56:22.445 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:56:22.445 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:56:22.461 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:56:22.461 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:56:22.492 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:56:22.492 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:56:22.571 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:56:22.571 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:56:22.586 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:56:22.586 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:56:22.625 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:56:22.626 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:56:22.650 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:56:22.651 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:56:22.666 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:56:22.667 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:56:23.512 [main] INFO  BStackDemo - Login Successful
+12:56:25.461 [main] INFO  BStackDemo - Login Successful
+12:56:27.862 [main] INFO  BStackDemo - Login Successful
+12:56:29.677 [main] INFO  BStackDemo - Login Successful
+12:56:41.488 [main] INFO  BStackDemo - Screenshot destination successful
+12:56:41.503 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestThu_Jan_04_12:56:41_IST_2024.png (The filename, directory name, or volume label syntax is incorrect)
+12:56:52.040 [main] INFO  BStackDemo - Screenshot destination successful
+12:56:52.040 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestThu_Jan_04_12:56:52_IST_2024.png (The filename, directory name, or volume label syntax is incorrect)
+12:57:02.589 [main] INFO  BStackDemo - Screenshot destination successful
+12:57:02.589 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestThu_Jan_04_12:57:02_IST_2024.png (The filename, directory name, or volume label syntax is incorrect)
+12:57:13.138 [main] INFO  BStackDemo - Screenshot destination successful
+12:57:13.138 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestThu_Jan_04_12:57:13_IST_2024.png (The filename, directory name, or volume label syntax is incorrect)
+12:57:23.670 [main] INFO  BStackDemo - Screenshot destination successful
+12:57:23.686 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestThu_Jan_04_12:57:23_IST_2024.png (The filename, directory name, or volume label syntax is incorrect)
+12:57:24.705 [main] INFO  BStackDemo - Application Closed
+12:57:26.124 [main] INFO  BStackDemo - ChromeDriver Launched
+12:57:27.014 [main] INFO  BStackDemo - Opened application url
+12:57:28.591 [main] INFO  BStackDemo - URl Maximized
+12:57:28.695 [main] INFO  BStackDemo - Clicked on Offers
+12:57:30.953 [main] INFO  BStackDemo - In SignIn Page
+12:57:33.280 [main] INFO  BStackDemo - Clicked on orders
+12:57:33.319 [main] INFO  BStackDemo - In SignIn Page
+12:57:35.720 [main] INFO  BStackDemo - Clicked on favourites
+12:57:35.756 [main] INFO  BStackDemo - In SignIn Page
+12:57:38.148 [main] INFO  BStackDemo - Clicked on bag
+12:57:38.157 [main] INFO  BStackDemo - Bag is Displayed
+12:57:38.224 [main] INFO  BStackDemo - Clicked on SignIn
+12:57:38.248 [main] INFO  BStackDemo - In SignIn Page
+12:57:41.920 [main] INFO  BStackDemo - Lowest to Highest Clicked
+12:57:42.096 [main] INFO  BStackDemo - In Ascending Order
+12:57:44.207 [main] INFO  BStackDemo - IN High to Low
+12:57:44.403 [main] INFO  BStackDemo - In Descending Order
+12:57:46.105 [main] INFO  BStackDemo - Only specific brand items are displayed:iPhone
+12:57:50.838 [main] INFO  BStackDemo - Only specific brand items are displayed:Galaxy
+12:57:55.522 [main] INFO  BStackDemo - Only specific brand items are displayed:Pixel
+12:58:00.108 [main] INFO  BStackDemo - Only specific brand items are displayed:One Plus
+12:58:03.957 [main] INFO  BStackDemo - Application Closed
+12:58:05.378 [main] INFO  BStackDemo - ChromeDriver Launched
+12:58:07.701 [main] INFO  BStackDemo - Opened application url
+12:58:07.837 [main] INFO  BStackDemo - URl Maximized
+12:58:13.962 [main] INFO  BStackDemo - 25 25
+12:58:14.967 [main] INFO  BStackDemo - Same Number of Products in Homepage and Favouritespage
+12:58:15.980 [main] INFO  BStackDemo - Application Closed
+12:58:17.295 [main] INFO  BStackDemo - ChromeDriver Launched
+12:58:20.607 [main] INFO  BStackDemo - Opened application url
+12:58:20.729 [main] INFO  BStackDemo - URl Maximized
+12:58:30.188 [main] INFO  BStackDemo - iPhone 11 Pro added
+12:58:31.587 [main] INFO  BStackDemo - Pixel 3
+12:58:32.985 [main] INFO  BStackDemo - One Plus 7T
+12:58:37.087 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+12:58:41.165 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+12:58:42.226 [main] INFO  BStackDemo - Bag Closed
+12:58:44.279 [main] INFO  BStackDemo - Clicked on Bag
+12:58:45.332 [main] INFO  BStackDemo - Clicked on CheckOut Page
+12:58:45.347 [main] INFO  BStackDemo - In CheckOut Page
+12:58:46.361 [main] INFO  BStackDemo - Application Closed
+12:58:47.719 [main] INFO  BStackDemo - ChromeDriver Launched
+12:58:48.568 [main] INFO  BStackDemo - Opened application url
+12:58:50.826 [main] INFO  BStackDemo - URl Maximized
+12:58:55.651 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.651 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.670 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.670 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.670 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.685 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.685 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.685 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.701 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.701 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.718 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.718 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.735 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.735 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.751 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.751 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.768 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.768 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.768 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.783 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.785 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.785 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.802 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.802 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.819 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.819 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.819 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.835 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.835 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.835 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.851 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.851 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.869 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.869 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.869 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.884 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.895 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.895 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.919 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.919 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.937 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.938 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.952 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.952 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.952 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.952 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.967 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.967 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.983 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.983 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:55.999 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:55.999 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.015 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.015 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.031 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.031 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.031 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.031 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.047 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.047 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.062 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.062 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.078 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.078 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.078 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.078 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.094 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.094 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.128 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.129 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.144 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.145 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.151 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.151 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.151 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.151 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.175 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.176 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.185 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.186 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.194 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.195 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.206 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.207 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.218 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.219 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.229 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.229 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.246 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.246 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.257 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.258 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:56.269 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:56.270 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:58:57.230 [main] INFO  BStackDemo - Your Order has been successfully placed.
+12:58:58.324 [main] INFO  BStackDemo - Clicked on Continue Shopping
+12:59:10.162 [main] ERROR BStackDemo - Fill the details
+12:59:11.850 [main] INFO  BStackDemo - Your Order has been successfully placed.
+12:59:12.914 [main] INFO  BStackDemo - Clicked on Continue Shopping
+12:59:24.851 [main] ERROR BStackDemo - Fill the details
+12:59:26.455 [main] INFO  BStackDemo - Your Order has been successfully placed.
+12:59:27.535 [main] INFO  BStackDemo - Clicked on Continue Shopping
+12:59:39.434 [main] ERROR BStackDemo - Fill the details
+12:59:41.065 [main] INFO  BStackDemo - Your Order has been successfully placed.
+12:59:42.141 [main] INFO  BStackDemo - Clicked on Continue Shopping
+12:59:44.122 [main] INFO  BStackDemo - Your Order has been successfully placed.
+12:59:45.201 [main] INFO  BStackDemo - Clicked on Continue Shopping
+12:59:47.165 [main] INFO  BStackDemo - Your Order has been successfully placed.
+12:59:48.250 [main] INFO  BStackDemo - Clicked on Continue Shopping
+12:59:50.728 [main] INFO  BStackDemo - Application Closed
+13:01:21.153 [main] INFO  BStackDemo - ChromeDriver Launched
+13:01:31.552 [main] INFO  BStackDemo - Opened application url
+13:01:31.680 [main] INFO  BStackDemo - URl Maximized
+13:01:32.757 [main] INFO  BStackDemo - Click on SignIn 
+13:01:32.874 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:01:32.877 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:01:33.235 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:01:33.236 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:01:33.263 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:01:33.264 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:01:33.297 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:01:33.298 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:01:33.326 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:01:33.327 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:01:33.346 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:01:33.347 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:01:33.364 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:01:33.365 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:01:33.385 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:01:33.386 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:01:33.406 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:01:33.407 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:01:33.425 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:01:33.426 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:01:33.443 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:01:33.444 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:01:33.461 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:01:33.463 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:01:33.477 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:01:33.478 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:01:33.497 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:01:33.498 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:01:33.513 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:01:33.514 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:01:33.559 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:01:33.560 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:01:33.577 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:01:33.578 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:01:33.595 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:01:33.596 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:01:33.613 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:01:33.616 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:01:33.634 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:01:33.635 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:01:34.482 [main] INFO  BStackDemo - Login Successful
+13:01:36.911 [main] INFO  BStackDemo - Login Successful
+13:01:38.786 [main] INFO  BStackDemo - Login Successful
+13:01:40.613 [main] INFO  BStackDemo - Login Successful
+13:01:52.386 [main] INFO  BStackDemo - Screenshot destination successful
+13:01:52.386 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestThu_Jan_04_13:01:52_IST_2024.png (The filename, directory name, or volume label syntax is incorrect)
+13:02:02.886 [main] INFO  BStackDemo - Screenshot destination successful
+13:02:02.886 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestThu_Jan_04_13:02:02_IST_2024.png (The filename, directory name, or volume label syntax is incorrect)
+13:02:13.436 [main] INFO  BStackDemo - Screenshot destination successful
+13:02:13.436 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestThu_Jan_04_13:02:13_IST_2024.png (The filename, directory name, or volume label syntax is incorrect)
+13:02:23.968 [main] INFO  BStackDemo - Screenshot destination successful
+13:02:23.968 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestThu_Jan_04_13:02:23_IST_2024.png (The filename, directory name, or volume label syntax is incorrect)
+13:02:34.467 [main] INFO  BStackDemo - Screenshot destination successful
+13:02:34.467 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestThu_Jan_04_13:02:34_IST_2024.png (The filename, directory name, or volume label syntax is incorrect)
+13:02:35.485 [main] INFO  BStackDemo - Application Closed
+13:02:36.822 [main] INFO  BStackDemo - ChromeDriver Launched
+13:02:39.881 [main] INFO  BStackDemo - Opened application url
+13:02:40.003 [main] INFO  BStackDemo - URl Maximized
+13:02:40.072 [main] INFO  BStackDemo - Clicked on Offers
+13:02:46.255 [main] INFO  BStackDemo - In SignIn Page
+13:02:48.682 [main] INFO  BStackDemo - Clicked on orders
+13:02:48.730 [main] INFO  BStackDemo - In SignIn Page
+13:02:51.065 [main] INFO  BStackDemo - Clicked on favourites
+13:02:51.118 [main] INFO  BStackDemo - In SignIn Page
+13:02:53.973 [main] INFO  BStackDemo - Clicked on bag
+13:02:53.975 [main] INFO  BStackDemo - Bag is Displayed
+13:02:54.068 [main] INFO  BStackDemo - Clicked on SignIn
+13:02:54.092 [main] INFO  BStackDemo - In SignIn Page
+13:02:57.786 [main] INFO  BStackDemo - Lowest to Highest Clicked
+13:02:57.991 [main] INFO  BStackDemo - In Ascending Order
+13:03:00.101 [main] INFO  BStackDemo - IN High to Low
+13:03:00.272 [main] INFO  BStackDemo - In Descending Order
+13:03:03.052 [main] INFO  BStackDemo - Application Closed
+13:03:04.345 [main] INFO  BStackDemo - ChromeDriver Launched
+13:03:14.147 [main] INFO  BStackDemo - Opened application url
+13:03:14.261 [main] INFO  BStackDemo - URl Maximized
+13:03:19.007 [main] INFO  BStackDemo - 25 25
+13:03:20.012 [main] INFO  BStackDemo - Same Number of Products in Homepage and Favouritespage
+13:03:21.031 [main] INFO  BStackDemo - Application Closed
+13:03:22.350 [main] INFO  BStackDemo - ChromeDriver Launched
+13:03:25.406 [main] INFO  BStackDemo - Opened application url
+13:03:25.530 [main] INFO  BStackDemo - URl Maximized
+13:03:31.407 [main] INFO  BStackDemo - iPhone 11 Pro added
+13:03:32.801 [main] INFO  BStackDemo - Pixel 3
+13:03:34.200 [main] INFO  BStackDemo - One Plus 7T
+13:03:38.302 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+13:03:42.354 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+13:03:43.417 [main] INFO  BStackDemo - Bag Closed
+13:03:45.480 [main] INFO  BStackDemo - Clicked on Bag
+13:03:46.541 [main] INFO  BStackDemo - Clicked on CheckOut Page
+13:03:46.915 [main] INFO  BStackDemo - In CheckOut Page
+13:03:47.942 [main] INFO  BStackDemo - Application Closed
+13:03:49.284 [main] INFO  BStackDemo - ChromeDriver Launched
+13:03:50.182 [main] INFO  BStackDemo - Opened application url
+13:03:52.313 [main] INFO  BStackDemo - URl Maximized
+13:03:57.867 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:57.867 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:57.884 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:57.884 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:57.899 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:57.900 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:57.900 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:57.900 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:57.917 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:57.917 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:57.933 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:57.933 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:57.950 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:57.950 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:57.967 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:57.967 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:57.983 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:57.983 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:57.983 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:57.983 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.000 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.000 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.017 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.017 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.033 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.033 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.050 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.050 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.050 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.050 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.066 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.066 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.084 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.085 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.095 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.096 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.107 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.108 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.128 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.129 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.145 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.146 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.159 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.159 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.165 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.165 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.180 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.180 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.196 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.196 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.212 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.212 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.212 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.228 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.228 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.228 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.243 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.243 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.243 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.243 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.259 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.259 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.275 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.275 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.275 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.275 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.291 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.291 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.307 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.307 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.323 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.323 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.333 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.334 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.344 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.344 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.353 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.354 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.362 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.362 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.366 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.366 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.366 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.366 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.388 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.389 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.397 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.399 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.409 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.409 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.419 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.419 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:58.428 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:03:58.429 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:03:59.625 [main] INFO  BStackDemo - Your Order has been successfully placed.
+13:04:00.707 [main] INFO  BStackDemo - Clicked on Continue Shopping
+13:04:12.548 [main] ERROR BStackDemo - Fill the details
+13:04:14.793 [main] INFO  BStackDemo - Your Order has been successfully placed.
+13:04:15.876 [main] INFO  BStackDemo - Clicked on Continue Shopping
+13:04:27.782 [main] ERROR BStackDemo - Fill the details
+13:04:29.942 [main] INFO  BStackDemo - Your Order has been successfully placed.
+13:04:31.031 [main] INFO  BStackDemo - Clicked on Continue Shopping
+13:04:42.930 [main] ERROR BStackDemo - Fill the details
+13:04:45.032 [main] INFO  BStackDemo - Your Order has been successfully placed.
+13:04:46.105 [main] INFO  BStackDemo - Clicked on Continue Shopping
+13:04:48.089 [main] INFO  BStackDemo - Your Order has been successfully placed.
+13:04:49.180 [main] INFO  BStackDemo - Clicked on Continue Shopping
+13:04:51.182 [main] INFO  BStackDemo - Your Order has been successfully placed.
+13:04:52.256 [main] INFO  BStackDemo - Clicked on Continue Shopping
+13:04:54.726 [main] INFO  BStackDemo - Application Closed
+13:09:47.577 [main] INFO  BStackDemo - ChromeDriver Launched
+13:09:50.644 [main] INFO  BStackDemo - Opened application url
+13:09:50.771 [main] INFO  BStackDemo - URl Maximized
+13:09:51.843 [main] INFO  BStackDemo - Click on SignIn 
+13:09:51.973 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:09:51.977 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:09:52.339 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:09:52.340 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:09:52.367 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:09:52.369 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:09:52.400 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:09:52.402 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:09:52.423 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:09:52.424 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:09:52.446 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:09:52.447 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:09:52.469 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:09:52.470 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:09:52.491 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:09:52.492 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:09:52.512 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:09:52.513 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:09:52.530 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:09:52.531 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:09:52.547 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:09:52.548 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:09:52.564 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:09:52.565 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:09:52.579 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:09:52.580 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:09:52.597 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:09:52.598 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:09:52.613 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:09:52.614 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:09:52.643 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:09:52.645 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:09:52.662 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:09:52.663 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:09:52.678 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:09:52.679 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:09:52.693 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:09:52.694 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:09:52.718 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:09:52.719 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:09:56.473 [main] INFO  BStackDemo - Login Successful
+13:09:58.393 [main] INFO  BStackDemo - Login Successful
+13:10:00.275 [main] INFO  BStackDemo - Login Successful
+13:10:02.192 [main] INFO  BStackDemo - Login Successful
+13:10:13.938 [main] INFO  BStackDemo - Screenshot destination successful
+13:10:13.938 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestThu_Jan_04_13:10:13_IST_2024.png (The filename, directory name, or volume label syntax is incorrect)
+13:10:24.471 [main] INFO  BStackDemo - Screenshot destination successful
+13:10:24.471 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestThu_Jan_04_13:10:24_IST_2024.png (The filename, directory name, or volume label syntax is incorrect)
+13:10:35.020 [main] INFO  BStackDemo - Screenshot destination successful
+13:10:35.020 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestThu_Jan_04_13:10:35_IST_2024.png (The filename, directory name, or volume label syntax is incorrect)
+13:10:45.553 [main] INFO  BStackDemo - Screenshot destination successful
+13:10:45.553 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestThu_Jan_04_13:10:45_IST_2024.png (The filename, directory name, or volume label syntax is incorrect)
+13:10:56.059 [main] INFO  BStackDemo - Screenshot destination successful
+13:10:56.063 [main] ERROR BStackDemo - Error taking or copying screenshot: .\Screenshots\LoginTestThu_Jan_04_13:10:56_IST_2024.png (The filename, directory name, or volume label syntax is incorrect)
+13:10:57.074 [main] INFO  BStackDemo - Application Closed
+13:10:58.424 [main] INFO  BStackDemo - ChromeDriver Launched
+13:11:09.810 [main] INFO  BStackDemo - Opened application url
+13:11:09.939 [main] INFO  BStackDemo - URl Maximized
+13:11:10.015 [main] INFO  BStackDemo - Clicked on Offers
+13:11:10.317 [main] INFO  BStackDemo - In SignIn Page
+13:11:12.731 [main] INFO  BStackDemo - Clicked on orders
+13:11:12.777 [main] INFO  BStackDemo - In SignIn Page
+13:11:15.131 [main] INFO  BStackDemo - Clicked on favourites
+13:11:15.164 [main] INFO  BStackDemo - In SignIn Page
+13:11:17.495 [main] INFO  BStackDemo - Clicked on bag
+13:11:17.508 [main] INFO  BStackDemo - Bag is Displayed
+13:11:17.566 [main] INFO  BStackDemo - Clicked on SignIn
+13:11:17.588 [main] INFO  BStackDemo - In SignIn Page
+13:11:21.236 [main] INFO  BStackDemo - Lowest to Highest Clicked
+13:11:21.425 [main] INFO  BStackDemo - In Ascending Order
+13:11:23.535 [main] INFO  BStackDemo - IN High to Low
+13:11:23.708 [main] INFO  BStackDemo - In Descending Order
+13:11:25.969 [main] INFO  BStackDemo - Only specific brand items are displayed:iPhone
+13:11:30.653 [main] INFO  BStackDemo - Only specific brand items are displayed:Galaxy
+13:11:35.319 [main] INFO  BStackDemo - Only specific brand items are displayed:Pixel
+13:11:39.957 [main] INFO  BStackDemo - Only specific brand items are displayed:One Plus
+13:11:43.306 [main] INFO  BStackDemo - Application Closed
+13:11:44.560 [main] INFO  BStackDemo - ChromeDriver Launched
+13:11:45.436 [main] INFO  BStackDemo - Opened application url
+13:11:47.899 [main] INFO  BStackDemo - URl Maximized
+13:11:56.746 [main] INFO  BStackDemo - 25 25
+13:11:57.759 [main] INFO  BStackDemo - Same Number of Products in Homepage and Favouritespage
+13:11:58.779 [main] INFO  BStackDemo - Application Closed
+13:12:00.124 [main] INFO  BStackDemo - ChromeDriver Launched
+13:12:03.059 [main] INFO  BStackDemo - Opened application url
+13:12:03.182 [main] INFO  BStackDemo - URl Maximized
+13:12:08.598 [main] INFO  BStackDemo - iPhone 11 Pro added
+13:12:10.001 [main] INFO  BStackDemo - Pixel 3
+13:12:11.402 [main] INFO  BStackDemo - One Plus 7T
+13:12:15.502 [main] INFO  BStackDemo - Quantiy :Pixel 3 increased
+13:12:19.550 [main] INFO  BStackDemo - Deleted iPhone 11 Pro
+13:12:20.594 [main] INFO  BStackDemo - Bag Closed
+13:12:22.659 [main] INFO  BStackDemo - Clicked on Bag
+13:12:23.710 [main] INFO  BStackDemo - Clicked on CheckOut Page
+13:12:23.726 [main] INFO  BStackDemo - In CheckOut Page
+13:12:24.731 [main] INFO  BStackDemo - Application Closed
+13:12:26.054 [main] INFO  BStackDemo - ChromeDriver Launched
+13:12:31.750 [main] INFO  BStackDemo - Opened application url
+13:12:31.890 [main] INFO  BStackDemo - URl Maximized
+13:12:33.432 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.433 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.446 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.447 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.462 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.463 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.478 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.478 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.490 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.491 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.504 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.505 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.520 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.521 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.534 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.535 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.546 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.547 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.560 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.560 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.573 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.573 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.584 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.585 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.602 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.603 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.613 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.614 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.626 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.626 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.638 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.638 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.648 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.649 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.660 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.662 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.672 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.672 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.691 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.691 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.708 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.709 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.728 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.729 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.740 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.742 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.759 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.760 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.771 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.772 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.786 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.787 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.800 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.801 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.812 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.813 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.823 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.824 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.833 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.833 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.843 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.843 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.853 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.853 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.863 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.863 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.873 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.873 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.882 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.883 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.895 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.895 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.904 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.904 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.912 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.912 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.921 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.922 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.930 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.931 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.939 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.939 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.948 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.948 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.959 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.959 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.968 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.970 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.979 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.980 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.988 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.989 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:33.998 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:33.998 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:12:34.963 [main] INFO  BStackDemo - Your Order has been successfully placed.
+13:12:36.054 [main] INFO  BStackDemo - Clicked on Continue Shopping
+13:12:47.863 [main] ERROR BStackDemo - Fill the details
+13:12:50.130 [main] INFO  BStackDemo - Your Order has been successfully placed.
+13:12:51.207 [main] INFO  BStackDemo - Clicked on Continue Shopping
+13:13:03.098 [main] ERROR BStackDemo - Fill the details
+13:13:05.222 [main] INFO  BStackDemo - Your Order has been successfully placed.
+13:13:06.310 [main] INFO  BStackDemo - Clicked on Continue Shopping
+13:13:18.181 [main] ERROR BStackDemo - Fill the details
+13:13:20.286 [main] INFO  BStackDemo - Your Order has been successfully placed.
+13:13:21.386 [main] INFO  BStackDemo - Clicked on Continue Shopping
+13:13:23.426 [main] INFO  BStackDemo - Your Order has been successfully placed.
+13:13:24.503 [main] INFO  BStackDemo - Clicked on Continue Shopping
+13:13:26.501 [main] INFO  BStackDemo - Your Order has been successfully placed.
+13:13:27.582 [main] INFO  BStackDemo - Clicked on Continue Shopping
+13:13:30.045 [main] INFO  BStackDemo - Application Closed
